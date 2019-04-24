@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">栄養管理アプリ</string>
+    <string name="rika_thx_title">おすすめの副菜は？</string>
+    <string name="rika_thx_desc">ご利用ありがとうございます。</string>
+    <string name="rika_thx_back">リストに戻る</string>
+    <string name="facebook_app_id">1901059870187644</string>
+    <string name="fb_login_protocol_scheme">fb1901059870187644</string>
+</resources>
